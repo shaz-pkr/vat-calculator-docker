@@ -1,0 +1,2 @@
+image: shazpkr/vat:<+pipeline.sequenceId>
+replicas: 1
