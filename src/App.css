@@ -1,10 +1,10 @@
 .field{
-  width: 300px;
-  padding-bottom: 20px;
+  width: 600px;
+  padding-bottom: 40px;
 }
 
 .colour-border{
-  border: 5px solid rgb(128, 15, 0);
+  border: 5px solid rgb(175, 21, 1);
   padding: 10px;
 }
 
@@ -13,6 +13,6 @@
 }
 
 body{
-  padding: 10px;
-  background-color: rgb(175, 223, 238);
+  padding: 20px;
+  background-color: rgb(130, 122, 243);
 }
